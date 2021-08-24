@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cslauritsen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kimlauritsen.org
+  * I am cslauritsen (https://keybase.io/cslauritsen) on keybase.
+  * I have a public key ASDtWM_6myT9C9Ne_UiOhE-CoxSXAM_vlvkNLS_C06h23go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ed58cffa9b24fd0bd35efd488e844f82a3149700cfef96f90d2d2fc2d3a876de0a",
+      "host": "keybase.io",
+      "kid": "0120ed58cffa9b24fd0bd35efd488e844f82a3149700cfef96f90d2d2fc2d3a876de0a",
+      "uid": "4bbe10f3b19948f43f688cfa6570e719",
+      "username": "cslauritsen"
+    },
+    "merkle_root": {
+      "ctime": 1534996257,
+      "hash": "d73c5dd2efbbd558b564a90f2da44a360512610889db832cbdad6657d35d466cb016cc37af6d610cab1f02b38e3f6b45694f45f2b65219eb6182c37366ffdf7d",
+      "hash_meta": "7dc631625c31ce9097d8d69fc45685b7bfa9b2f27d0fb336eb78e423879dce5c",
+      "seqno": 3503354
+    },
+    "service": {
+      "entropy": "hWMTnteQW3Nf2cGHV+za8V6M",
+      "hostname": "kimlauritsen.org",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534996277,
+  "expire_in": 504576000,
+  "prev": "94f61ef1f58d59cad3defd30a938cf0e745ace89631af44a596edec3a1a37e49",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7VjP+psk/QvTXv1IjoRPgqMUlwDP75b5DS0vwtOodt4Kp3BheWxvYWTESpcCD8QglPYe8fWNWcrT3v0wqTjPDnRazoljGvRKWW7ew6GjfknEIFhG6cK9jCymLJEfcyR68q7woZbQwSRFFh0rk6NwUZb9AgHCo3NpZ8RA72L6iggZ/TUXZyyjestcDlVJzWXV0FdKXYJCdV1H4+fzrGO47F2Zxs6kdgPlsyQ/47QRi+q8TbQx+wBczH/wAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG9GfCHk3BLiArJnR5kDqkYZ7ek+AdIl+3DjgKp0JLAlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cslauritsen
+
+================================================================== 

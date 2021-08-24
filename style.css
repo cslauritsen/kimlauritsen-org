@@ -1,0 +1,155 @@
+* { 
+	margin: 0;
+	padding: 0;
+	font: 10pt/1.4em tahoma, arial, helvetica, sans-serif;
+}
+
+i {
+	font-style: italic;
+}
+
+a {
+	text-decoration: none;
+}
+
+#container {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+#hdr {
+	margin: 15px 5px 10px 10%; 
+	height: 80px;
+	background-image: url(images/namebar.png);
+	background-repeat: no-repeat;
+}
+
+
+#hdr h1, #hdr h2 {
+	display: none;
+
+}
+
+#footer {
+	border-top: 1px solid grey;
+	padding-top: 5px;
+	font-size: 9pt;
+	text-align: center;
+	display: block;
+	clear: both;
+}
+
+#body {
+	padding: 5px 5px 5px 5px;
+	display: block;
+	margin-top: 50px;
+}
+
+#copy {
+	padding-left: 10%;
+	display: block;
+	clear: both;
+	width: 80%;
+}
+
+#nav {
+	list-style: none;
+	width: 90%;
+	padding-left: 10%;
+	position: absolute;
+	top: 85px;
+}
+
+#nav li {
+	display: inline;
+	float: left;
+	padding: 5px 10px 5px 10px;
+	font-size: 125%;
+	margin: 5px 2px 5px 3px;
+}
+
+#nav * {
+	background-color: #bf1e2d;
+	font-weight: bold;
+	color: white;
+}
+
+#nav .selected {
+	color: #dedede;
+}
+
+
+dt {
+	font-weight: bold;
+}
+
+dd {
+	margin-left: 10px;
+}
+
+label {
+	font-weight: bold;
+}
+
+.pair {
+	display: block;
+}
+
+.pair * {
+	display: block;
+	width: 30em;
+}
+
+#headshot { display: inline; float: left; }
+
+.praise {
+	width: 40%;
+	display: inline;
+	float: left;
+	padding-right: 10px;
+}
+
+.praise * {
+	font-family: Palatino,Times new roman,serif;
+	display: inline;
+	color: #bf1e2d;
+}
+
+.praise .org {
+	text-decoration: underline;
+}
+
+.praise .quote {
+	font-size: 140%;
+	color: #777;
+	float: left;
+}
+
+.praise .work {
+	font-style: italic;
+}
+
+.attrib div {
+	display: block;
+	text-align: right;
+}
+
+#perf h2 {
+	font-weight: bold;
+	color: #777;
+	margin-top: 10px;
+}
+
+#perf li {
+	list-style: none;
+}
+
+#perf .title {
+	font-style: italic;
+
+}
+
+#captcha {
+  font-size: 150%;
+}
