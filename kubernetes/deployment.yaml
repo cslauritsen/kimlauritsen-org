@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx
+  namespace: kim
+spec:
+  selector:
+    matchLabels:
+      app: nginx
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: cslauritsen/kimlauritsen-org
+        resources:
+          limits:
+            memory: "64Mi"
+            cpu: "300m"
+          requests:
+            memory: "32Mi"
+            cpu: "50m"
+        ports:
+        - containerPort: 80
