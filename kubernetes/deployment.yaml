@@ -4,6 +4,7 @@ metadata:
   name: nginx
   namespace: kim
 spec:
+  replicas: 1
   selector:
     matchLabels:
       app: nginx
@@ -14,7 +15,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: cslauritsen/kimlauritsen-org
+        image: cslauritsen/kimlauritsen-org:0.1
         resources:
           limits:
             memory: "64Mi"
